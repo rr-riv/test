@@ -1,0 +1,7 @@
+
+if SHIELD_JP60PERCENT
+
+config ZMK_KEYBOARD_NAME
+    default "jp60percent"
+
+endif

@@ -1,0 +1,3 @@
+
+config SHIELD_JP60PERCENT
+    def_bool $(shields_list_contains,jp60percent)
